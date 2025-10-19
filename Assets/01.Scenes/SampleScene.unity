@@ -165,7 +165,7 @@ GameObject:
   - component: {fileID: 201399328}
   - component: {fileID: 201399329}
   m_Layer: 0
-  m_Name: Square
+  m_Name: Test
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -688,3 +688,4 @@ SceneRoots:
   - {fileID: 211932871}
   - {fileID: 364779724}
   - {fileID: 1434199774}
+  - {fileID: 239629076}
